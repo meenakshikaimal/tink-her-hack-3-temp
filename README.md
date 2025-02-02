@@ -2,38 +2,46 @@
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: Hacqueens
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Meenakshi Kaimal - Model Engineering College
+- Member 2: Vyshnavi Jayachandran - Model Engineering College
+  
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+It's a user interactive website that lets you play podcasts related to healthcare as well asa wellness.
+We have also intergrated a form to fetch user information which is related to their podcast listening preferences.
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+We are solving the ridiculous problem of not having enough awareness about listening to healthcare podcasts, people tend to go to apps like spotify and focus more on music. We wanted to change that by creating a website that lets you listen to podcasts directly from the spotify app without much hassle, we are also fetching necessary information required to further modify what kind of podcasts people would want to listen to in the future.
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+We are solving the aforementioned problem by creating a website that lets you listen to podcasts directly from the spotify app without much hassle, we are also fetching necessary information required to further modify what kind of podcasts people would want to listen to in the future.
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+- html,javascript,css
 
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+-2. Tools & Libraries Used
+(A) External Libraries
+Google Fonts (Playfair Display)
+Used for embedding podcast playlists from Spotify.
+YouTube Embed API
+Used for embedding YouTube videos.
+(B) JavaScript Functionalities
+Button Click Navigation: Redirects users to different podcast pages.
+Form Handling & Data Storage:
+3. Web Development Tools
+🔹 Git & GitHub – Version control & hosting
+🔹 Google Chrome DevTools – Debugging and testing
+🔹 Code Editor (VS Code, Sublime Text, etc.) – Writing & editing code
+
 
 ### Implementation
 For Software:
@@ -82,18 +90,10 @@ For Hardware:
 ![Final](Add photo of final product here)
 *Explain the final build*
 
-### Project Demo
-# Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
-
-# Additional Demos
-[Add any extra demo materials/links]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- Meenakshi Kaimal: frontend contributions
+- Vyshnavi Jayachandran: backend contributions
 
 ---
 Made with ❤️ at TinkerHub
